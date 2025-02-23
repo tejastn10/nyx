@@ -1,4 +1,4 @@
 export const DATA = {
-	name: "arbor",
-	description: "",
+	name: "nyx",
+	description: "Matrix style falling text animation",
 } as const;
