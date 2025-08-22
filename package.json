@@ -24,13 +24,13 @@
 	"engines": {
 		"node": ">=22"
 	},
-	"packageManager": "npm@11.5.1",
+	"packageManager": "npm@11.5.2",
 	"dependencies": {
 		"clsx": "^2.1.1",
-		"next": "15.4.4",
+		"next": "15.5.0",
 		"next-themes": "^0.4.6",
-		"react": "^19.1.0",
-		"react-dom": "^19.1.0",
+		"react": "^19.1.1",
+		"react-dom": "^19.1.1",
 		"tailwind-merge": "^3.3.1",
 		"tailwindcss-animate": "^1.0.7"
 	},
@@ -38,20 +38,20 @@
 		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^19.8.1",
 		"@eslint/eslintrc": "^3.3.1",
-		"@eslint/js": "^9.31.0",
-		"@tailwindcss/postcss": "^4.1.11",
+		"@eslint/js": "^9.33.0",
+		"@tailwindcss/postcss": "^4.1.12",
 		"@tailwindcss/typography": "^0.5.16",
-		"@types/node": "^24.1.0",
-		"@types/react": "^19.1.8",
-		"@types/react-dom": "^19.1.6",
-		"eslint": "^9.31.0",
-		"eslint-config-next": "15.4.4",
+		"@types/node": "^24.3.0",
+		"@types/react": "^19.1.10",
+		"@types/react-dom": "^19.1.7",
+		"eslint": "^9.33.0",
+		"eslint-config-next": "15.5.0",
 		"globals": "^16.3.0",
 		"husky": "^9.1.7",
-		"lint-staged": "^16.1.2",
+		"lint-staged": "^16.1.5",
 		"postcss": "^8.5.6",
 		"prettier": "^3.6.2",
-		"tailwindcss": "^4.1.11",
-		"typescript": "^5.8.3"
+		"tailwindcss": "^4.1.12",
+		"typescript": "^5.9.2"
 	}
 }
