@@ -21,8 +21,7 @@
 - **Next.js**: A React framework for server-side rendering, static site generation, and API routes.
 - **TypeScript**: Ensures type safety and maintainability.
 - **Pre-configured Tooling**:
-  - **ESLint**: Enforces consistent code quality.
-  - **Prettier**: Auto-formats code for readability.
+  - **BiomeJS**: Enforces consistent code quality.
   - **Husky**: Git hooks to enforce best practices before commits.
   - **Commitlint**: Ensures a standardized commit message format.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
@@ -80,8 +79,7 @@ nyx/
 │   ├── pages/          # Next.js pages
 │   ├── styles/         # Global styles
 │   ├── utils/          # Helper functions
-├── .eslint.config.mjs  # ESLint configuration
-├── .prettierrc.yml     # Prettier configuration
+├── biome.json          # BiomeJS configuration
 ├── .commitlintrc.yml   # Commitlint configuration
 ├── next.config.js      # Next.js configuration
 ├── tsconfig.json       # TypeScript configuration
